@@ -1,0 +1,19 @@
+import Hero from './components/Hero';
+import Services from './components/Services';
+import About from './components/About';
+import CTA from './components/CTA';
+import Contact from './components/Contact';
+
+function App() {
+  return (
+    <div className="min-h-screen bg-white">
+      <Hero />
+      <About />
+      <Services />
+      <CTA />
+      <Contact />
+    </div>
+  );
+}
+
+export default App;
