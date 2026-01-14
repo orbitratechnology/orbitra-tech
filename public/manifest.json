@@ -1,0 +1,21 @@
+{
+  "name": "Orbitra Tech",
+  "short_name": "Orbitra",
+  "description": "Empowering Sri Lankan SMEs with practical, affordable digital solutions.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2563eb",
+  "icons": [
+    {
+      "src": "/orbitra_logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/orbitra_logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
